@@ -1,0 +1,11 @@
+C:\Users\Dayana Cifuentes\Desktop\Sabados\JavierCifuentes\bin\Debug\netcoreapp2.2\JavierCifuentes.deps.json
+C:\Users\Dayana Cifuentes\Desktop\Sabados\JavierCifuentes\bin\Debug\netcoreapp2.2\JavierCifuentes.runtimeconfig.json
+C:\Users\Dayana Cifuentes\Desktop\Sabados\JavierCifuentes\bin\Debug\netcoreapp2.2\JavierCifuentes.runtimeconfig.dev.json
+C:\Users\Dayana Cifuentes\Desktop\Sabados\JavierCifuentes\bin\Debug\netcoreapp2.2\JavierCifuentes.dll
+C:\Users\Dayana Cifuentes\Desktop\Sabados\JavierCifuentes\bin\Debug\netcoreapp2.2\JavierCifuentes.pdb
+C:\Users\Dayana Cifuentes\Desktop\Sabados\JavierCifuentes\obj\Debug\netcoreapp2.2\JavierCifuentes.csprojAssemblyReference.cache
+C:\Users\Dayana Cifuentes\Desktop\Sabados\JavierCifuentes\obj\Debug\netcoreapp2.2\JavierCifuentes.csproj.CoreCompileInputs.cache
+C:\Users\Dayana Cifuentes\Desktop\Sabados\JavierCifuentes\obj\Debug\netcoreapp2.2\JavierCifuentes.AssemblyInfoInputs.cache
+C:\Users\Dayana Cifuentes\Desktop\Sabados\JavierCifuentes\obj\Debug\netcoreapp2.2\JavierCifuentes.AssemblyInfo.cs
+C:\Users\Dayana Cifuentes\Desktop\Sabados\JavierCifuentes\obj\Debug\netcoreapp2.2\JavierCifuentes.dll
+C:\Users\Dayana Cifuentes\Desktop\Sabados\JavierCifuentes\obj\Debug\netcoreapp2.2\JavierCifuentes.pdb
